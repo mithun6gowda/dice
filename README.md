@@ -1,6 +1,6 @@
-# my_app
+# dice_roll
 
-A new Flutter project.
+Flutter project to create a view only dice roller. Created as a learning project
 
 ## Getting Started
 
